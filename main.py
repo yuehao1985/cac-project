@@ -1,5 +1,1 @@
-print("Hello from Alex.")
-print("Hello from Colin (i fixed it)")
-print("does this work")
-print("Hello from Matthew")
-print("Hello from Bryan (i also fixed it)")
+print("Reset this file.")
